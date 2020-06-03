@@ -3140,7 +3140,7 @@ Start Time,Finish Time,Activity,Seq Code,Recipe Name,Break Reasons,Missing Ingre
 5/6/2020 13:58,5/6/2020 14:02,Production,0021 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,3.75,2020-20
 5/6/2020 14:02,5/6/2020 14:06,Production,0022 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,4.13,2020-20
 5/6/2020 14:06,5/6/2020 14:10,Production,0023 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,3.85,2020-20
-5/6/2020 14:10,5/6/2020 14:15,Production,0024 of 0063,Break End,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,4.53,2020-20
+5/6/2020 14:10,5/6/2020 14:15,Production,0024 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,4.53,2020-20
 5/6/2020 14:15,5/6/2020 14:18,Production,0025 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,3.7,2020-20
 5/6/2020 14:18,5/6/2020 14:22,Production,0026 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,3.78,2020-20
 5/6/2020 14:22,5/6/2020 14:27,Production,0027 of 0063,A4,,,KL9,Friday Assembly,Wednesday Afternoon,iXUsr_Davidson(8254),3,4.65,2020-20
